@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/static_lib.dir/main.cpp.o  -o static_lib /home/user/Downloads/SDL2-build/libSDL2d.a -lm -ldl -lpthread 

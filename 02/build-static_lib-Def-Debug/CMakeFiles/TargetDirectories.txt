@@ -1,0 +1,3 @@
+/home/user/Dev/cources/02/build-static_lib-Def-Debug/CMakeFiles/rebuild_cache.dir
+/home/user/Dev/cources/02/build-static_lib-Def-Debug/CMakeFiles/static_lib.dir
+/home/user/Dev/cources/02/build-static_lib-Def-Debug/CMakeFiles/edit_cache.dir
