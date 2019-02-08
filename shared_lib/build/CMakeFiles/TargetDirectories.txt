@@ -1,3 +1,0 @@
-/home/user/Dev/cources/shared_lib/build/CMakeFiles/rebuild_cache.dir
-/home/user/Dev/cources/shared_lib/build/CMakeFiles/shared_lib.dir
-/home/user/Dev/cources/shared_lib/build/CMakeFiles/edit_cache.dir
