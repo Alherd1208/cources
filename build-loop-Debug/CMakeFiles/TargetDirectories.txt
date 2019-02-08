@@ -1,3 +1,0 @@
-/home/user/Dev/cources/build-loop-Debug/CMakeFiles/rebuild_cache.dir
-/home/user/Dev/cources/build-loop-Debug/CMakeFiles/loop_with_keyboard.dir
-/home/user/Dev/cources/build-loop-Debug/CMakeFiles/edit_cache.dir
