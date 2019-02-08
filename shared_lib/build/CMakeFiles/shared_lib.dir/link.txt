@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/shared_lib.dir/main.cpp.o  -o shared_lib -Wl,-rpath,/home/user/Downloads/SDL2-build /home/user/Downloads/SDL2-build/libSDL2-2.0d.so -lm -ldl -lpthread 

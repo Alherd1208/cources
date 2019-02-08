@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/loop_with_keyboard.dir/src/main.cpp.o  -o loop_with_keyboard /home/user/Downloads/SDL2-build/libSDL2d.a -lm -ldl -lpthread -lrt 
